@@ -1,6 +1,6 @@
   # Future Interns – Data Science & Analytics Internship
  
- # Business Sales Performance Dashboard
+ ## Business Sales Performance Dashboard
  
  ## Project Overview
 
@@ -92,7 +92,7 @@ Power BI Interactive Reporting
 
 ## Skills: Power BI, Power Query, DAX, Data Analysis, Business Intelligence, Dashboard Development, Data Visualization.
 
-# Conclusion
+## Conclusion
 
 The Business Sales Performance Dashboard demonstrates the effective use of Power BI for transforming sales data into meaningful insights. The project showcases analytical thinking, business intelligence skills, and the ability to communicate complex data through intuitive visualizations.
 
