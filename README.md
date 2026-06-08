@@ -1,6 +1,6 @@
   # Future Interns – Data Science & Analytics Internship
  
- ## Business Sales Performance Dashboard
+ # Business Sales Performance Dashboard
  
  ## Project Overview
 
