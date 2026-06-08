@@ -1,13 +1,13 @@
-Business Sales Performance Dashboard
-Project Overview
+ #Business Sales Performance Dashboard
+ #Project Overview
 
 The Business Sales Performance Dashboard is an interactive Power BI dashboard developed to analyze business sales data and provide actionable insights into sales performance, customer activity, and product trends. The dashboard enables users to monitor key business metrics through dynamic visualizations and KPI indicators.
 
-Objective
+#Objective
 
 The primary objective of this project is to transform raw sales transaction data into meaningful business insights that support data-driven decision-making. The dashboard helps identify sales trends, top-performing products, customer distribution, and regional sales performance.
 
-Tools Used
+#Tools Used
 Power BI Desktop
 Power Query
 DAX (Data Analysis Expressions)
@@ -21,7 +21,7 @@ Total Sales: 40.91K
 Total Orders: 119
 Total Quantity Sold: 23K
 Total Customers: 25
-Dashboard Features
+#Dashboard Features
 1. Sales Trend Analysis
 
 A line chart visualizes yearly sales performance, allowing users to identify growth patterns and sales trends over time.
@@ -46,7 +46,7 @@ A column chart highlights the highest revenue-generating invoices, enabling tran
 
 Users can filter the dashboard using country selections such as Belgium, Australia, Canada, Brazil, Cyprus, and others for detailed regional analysis.
 
-Insights Generated
+#Insights Generated
 
 The dashboard helps answer important business questions such as:
 
